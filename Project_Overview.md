@@ -1,9 +1,4 @@
-
-***
-
-## PROJECT_OVERVIEW.md (more detailed narrative)
-
-# Project Overview
+# Project Overview (more detailed narrative)
 
 This document summarizes the capstone project for C964 (Computer Science Capstone) and mirrors the narrative from the formal Task 2 submission.
 
