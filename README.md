@@ -1,4 +1,4 @@
-# RE-Price-Prediction-Model-Capstone-
+# Real Estate Price Prediction Model (Capstone)
 
 This project is a proof-of-concept machine learning tool that predicts residential sale prices in King County, Washington, to support an instant-buying (iBuyer) workflow for a fictional brokerage, **Moving On Up Real Estate**.
 
